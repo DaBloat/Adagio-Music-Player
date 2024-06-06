@@ -13,7 +13,6 @@ for i in range(songs):
     search = input("Search for a song: ")
     html = ytsearch.urlopen(f'https://www.youtube.com/results?search_query={search.replace(" ", "+")}')
     vidID = re.findall(r'watch\?v=(\S{11})', html.read().decode())
-    print(vidID)
     link = f"https://www.youtube.com/watch?v={vidID[0]}"
 
     yt = YouTube(link)
@@ -23,7 +22,6 @@ for i in range(songs):
     stream = pop[-1]
     queue_songs.append(stream)
 
-print(queue_songs[0].url)
 for songs in queue_songs:
     media = instance.media_new(songs.url)
     player.set_media(media)
