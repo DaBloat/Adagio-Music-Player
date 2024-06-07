@@ -1,0 +1,6 @@
+name: adagio_music_player
+
+environment:
+  sdk: '^3.4.0'
+dependencies:
+  flutter_vlc_player_platform_interface: ^2.0.3
