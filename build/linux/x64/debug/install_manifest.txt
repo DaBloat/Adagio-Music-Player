@@ -1,0 +1,12 @@
+/home/kurty/Adagio-Music-Player/adagio/build/linux/x64/debug/bundle/adagio
+/home/kurty/Adagio-Music-Player/adagio/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/kurty/Adagio-Music-Player/adagio/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/kurty/Adagio-Music-Player/adagio/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/kurty/Adagio-Music-Player/adagio/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/kurty/Adagio-Music-Player/adagio/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/kurty/Adagio-Music-Player/adagio/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/kurty/Adagio-Music-Player/adagio/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/kurty/Adagio-Music-Player/adagio/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/kurty/Adagio-Music-Player/adagio/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/kurty/Adagio-Music-Player/adagio/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/kurty/Adagio-Music-Player/adagio/build/linux/x64/debug/bundle/data/flutter_assets/version.json
